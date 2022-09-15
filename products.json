@@ -1,0 +1,39 @@
+[
+    {
+        "Item": "hat",
+        "Designer": "Joelee",
+        "Stock": "300",
+        "Value": "2.50"
+
+    },
+    {
+        "Item": "shirt",
+        "Designer": "Banna Joe",
+        "Stock": "300",
+        "Value": "2.50"
+    },
+    {
+        "Item": "Jeans",
+        "Designer": "Clara",
+        "Stock": "300",
+        "Value": "2.50"
+    },
+    {
+        "Item": "Shoes",
+        "Designer": "Pam",
+        "Stock": "300",
+        "Value": "2.50"
+    },
+    {
+        "Item": "Cowboy hat",
+        "Designer": "Smith",
+        "Stock": "300",
+        "Value": "2.50"
+    },
+    {
+        "Item": "Books",
+        "Designer": "Homer",
+        "Stock": "300",
+        "Value": "2.50"
+    }
+]
